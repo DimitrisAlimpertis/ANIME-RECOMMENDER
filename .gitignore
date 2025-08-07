@@ -42,4 +42,4 @@ venv.bak/
 *.csv
 *.db
 *.sqlite3
-*.sqlite
+*.sqlite.env
